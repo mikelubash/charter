@@ -1,0 +1,10 @@
+INSERT INTO transactions(id, customerid,amount,createdAt) values(1,1,49, '2022-12-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(2,2,50, '2022-11-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(3,3,67, '2022-12-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(4,3,99, '2022-10-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(5,4,100,'2022-09-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(6,4,50,'2022-12-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(7,5,49,'2022-12-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(8,5,149,'2022-12-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(9,6,349,'2022-11-01 12:02:01');
+INSERT INTO transactions(id, customerid,amount,createdAt) values(10,6,149,'2022-11-01 16:02:01');
